@@ -1,0 +1,36 @@
+{
+  "files": {
+    "static/js/0.fbe53b26.chunk.js": "/static/js/0.fbe53b26.chunk.js",
+    "static/js/0.fbe53b26.chunk.js.map": "/static/js/0.fbe53b26.chunk.js.map",
+    "Cast.js": "/static/js/Cast.84c5f659.chunk.js",
+    "Cast.js.map": "/static/js/Cast.84c5f659.chunk.js.map",
+    "HomePage.js": "/static/js/HomePage.65bc0c4b.chunk.js",
+    "HomePage.js.map": "/static/js/HomePage.65bc0c4b.chunk.js.map",
+    "MovieDetailsPage.js": "/static/js/MovieDetailsPage.613554e5.chunk.js",
+    "MovieDetailsPage.js.map": "/static/js/MovieDetailsPage.613554e5.chunk.js.map",
+    "MoviesPage.js": "/static/js/MoviesPage.363543c4.chunk.js",
+    "MoviesPage.js.map": "/static/js/MoviesPage.363543c4.chunk.js.map",
+    "NotFound.js": "/static/js/NotFound.5c5c2601.chunk.js",
+    "NotFound.js.map": "/static/js/NotFound.5c5c2601.chunk.js.map",
+    "Reviews.js": "/static/js/Reviews.e599c28a.chunk.js",
+    "Reviews.js.map": "/static/js/Reviews.e599c28a.chunk.js.map",
+    "main.js": "/static/js/main.46d1cff3.chunk.js",
+    "main.js.map": "/static/js/main.46d1cff3.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.cdd7ae90.js",
+    "runtime-main.js.map": "/static/js/runtime-main.cdd7ae90.js.map",
+    "static/css/9.72016822.chunk.css": "/static/css/9.72016822.chunk.css",
+    "static/js/9.f8012438.chunk.js": "/static/js/9.f8012438.chunk.js",
+    "static/js/9.f8012438.chunk.js.map": "/static/js/9.f8012438.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.260123cbe58327864b192ffeb081a54b.js": "/precache-manifest.260123cbe58327864b192ffeb081a54b.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/9.72016822.chunk.css.map": "/static/css/9.72016822.chunk.css.map",
+    "static/js/9.f8012438.chunk.js.LICENSE.txt": "/static/js/9.f8012438.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cdd7ae90.js",
+    "static/css/9.72016822.chunk.css",
+    "static/js/9.f8012438.chunk.js",
+    "static/js/main.46d1cff3.chunk.js"
+  ]
+}

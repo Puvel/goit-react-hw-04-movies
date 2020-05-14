@@ -1,0 +1,2 @@
+(this.webpackJsonptest=this.webpackJsonptest||[]).push([[5],{104:function(e,t,n){"use strict";n.r(t);var a=n(0),r=n.n(a);t.default=function(){return r.a.createElement("h1",null,"Sorry, page not found",r.a.createElement("span",{role:"img","aria-label":"emoji"},"\ud83d\ude48"))}}}]);
+//# sourceMappingURL=NotFound.5c5c2601.chunk.js.map
